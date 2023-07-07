@@ -6,38 +6,82 @@ Computer Science Engineer with experience in technical engineering and OO progra
 
 Expertise:
 
-* OOAD / OOP as well as UML and Design Pattern
+* OOAD / OOP / UML / Design Pattern
 * Integration / Middleware / ESB / Message Broker / Sockets / PubSub / RESTful / IoT
-* Visual Computing and VR / 3D / CAD / DICOM / Image Processing
-* Windows / Linux and DevOps
+* Visual Computing / VR / 3D / CAD / DICOM / Image Processing
+* Windows / Linux / DevOps
 
 Education:
 
 * Certificate BFH in General Management
 * BSc BFH in Computer Science with spec. in Computer Perception and Virtual Reality
 * Civil Engineering Draughtsman, Federal VET Diploma
-* Member Swiss Engineering STV
 
 ## Online Portfolio
 
-* LinkedIn: [https://www.linkedin.com/in/roland-bruggmann](https://www.linkedin.com/in/roland-bruggmann)
-* Youtube: [https://www.youtube.com/channel/UCNapCbac0pUrGQd5uUHCu7g](https://www.youtube.com/channel/UCNapCbac0pUrGQd5uUHCu7g)
-* SlideShare: [https://www.slideshare.net/RolandBruggmann](https://www.slideshare.net/RolandBruggmann)
-* Epic Games Developer: [https://dev.epicgames.com/community/profile/PQBq/brugr9](https://dev.epicgames.com/community/profile/PQBq/brugr9)
+### Algorithms
 
-<!--
-## Selected Work
+* VISTRA &ndash; Algorithm and Data Structure Visualization
+  * Screencast: [https://www.youtube.com/watch?v=PHCs4vWJ0Cw](https://www.youtube.com/watch?v=PHCs4vWJ0Cw)
+  * Report: [https://www.slideshare.net/RolandBruggmann/desktopapp-zur-visualisierung-von-graphenalgorithmen](https://www.slideshare.net/RolandBruggmann/desktopapp-zur-visualisierung-von-graphenalgorithmen)
+  * Code: [https://github.com/brugr9/vistra](https://github.com/brugr9/vistra)
+* nummeth &ndash; Numerical Methods for Approximation and Integration
+  * [https://github.com/brugr9/nummeth](https://github.com/brugr9/nummeth)
+  * [https://www.slideshare.net/RolandBruggmann/numerische-methoden-approximation-und-integration](https://www.slideshare.net/RolandBruggmann/numerische-methoden-approximation-und-integration)
+
+### Messaging and IoT
+
+* Polar® H10 Heart Rate Monitor Integration
+  * [https://github.com/brugr9/Heartbeat51](https://github.com/brugr9/Heartbeat51)
+* Unreal Engine Code Plugin "Integration Tool"
+  * [https://unrealengine.com/marketplace/en-US/product/integration-tool](https://unrealengine.com/marketplace/en-US/product/integration-tool)
+  * [https://github.com/brugr9/UEPluginIntegrationTool](https://github.com/brugr9/UEPluginIntegrationTool)
 
 ### Image Processing
 
-* Index Terms:
-* Technology:
+* Fingerprint Analysis – Preprocessing and Feature Extraction
+  * [https://github.com/brugr9/fipa](https://github.com/brugr9/fipa)
+  * [https://www.slideshare.net/RolandBruggmann/merkmalsextraktion-am-fingerabdruck](https://www.slideshare.net/RolandBruggmann/merkmalsextraktion-am-fingerabdruck)
+  * [https://ch.mathworks.com/matlabcentral/fileexchange/69424-fingerprint-analysis-preprocessing-and-feature-extraction](https://ch.mathworks.com/matlabcentral/fileexchange/69424-fingerprint-analysis-preprocessing-and-feature-extraction)
+* Crosswalk &ndash; Meet The Beatles at Abbey Road for Image Processing in a Jupyter Notebook.
+  * [https://github.com/brugr9/Crosswalk](https://github.com/brugr9/Crosswalk)
 
 ### Computer Graphics
 
-### Signal Processing
+* Uneral Engine
+  * UE Medical Rendering
+    * [https://github.com/brugr9/UEPluginVolumeCreator](https://github.com/brugr9/UEPluginVolumeCreator)
+  * Polar® H10 Heart Rate Monitor Integration
+    * [https://github.com/brugr9/Heartbeat51](https://github.com/brugr9/Heartbeat51)
+  * Code Plugin "Integration Tool"
+    * [https://unrealengine.com/marketplace/en-US/product/integration-tool](https://unrealengine.com/marketplace/en-US/product/integration-tool)
+    * [https://github.com/brugr9/UEPluginIntegrationTool](https://github.com/brugr9/UEPluginIntegrationTool)
+  * nDisplay Cluster in CAVE
+    * [https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster](https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster)
+  * 3D Content: Cultural Heritage
+    * [https://github.com/brugr9/UEPluginCulturalHeritage](https://github.com/brugr9/UEPluginCulturalHeritage)
+  * 3D Content for Dream-like VR
+    * [https://www.slideshare.net/RolandBruggmann/3d-content-for-dreamlike-vr-249969767](https://www.slideshare.net/RolandBruggmann/3d-content-for-dreamlike-vr-249969767)
+    * [https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR](https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR)
+* Unity
+  * Rigged Body Animation
+    * [https://www.tpf.philhum.unibe.ch/portfolio/RiggedBodyAnimation](https://www.tpf.philhum.unibe.ch/portfolio/RiggedBodyAnimation)
+  * Solar System
+    * [https://www.youtube.com/watch?v=KysSDO5oVDU](https://www.youtube.com/watch?v=KysSDO5oVDU)
+  * Volume Rendering (Bachelors Thesis)
+    * LinkedIn: [https://www.linkedin.com/pulse/unity-volume-rendering-roland-bruggmann](https://www.linkedin.com/pulse/unity-volume-rendering-roland-bruggmann)
+    * Screencasts: [https://www.youtube.com/watch?v=-dfjpM1qk3I&list=PLJ_m7aZKyiAYO8Ssf7P4WMn2N7ZMcU1rO](https://www.youtube.com/watch?v=-dfjpM1qk3I&list=PLJ_m7aZKyiAYO8Ssf7P4WMn2N7ZMcU1rO)
+    * Presentation: 
+* Motion Parallax in HTML/CSS/JavaScript
+  * [https://www.youtube.com/watch?v=Vm-TyU2OPn4](https://www.youtube.com/watch?v=Vm-TyU2OPn4)
+  * [https://codepen.io/brugr9/pen/QZObWe](https://codepen.io/brugr9/pen/QZObWe)
+  * [https://github.com/brugr9/dali2.5d](https://github.com/brugr9/dali2.5d)
 
-### Messaging/IoT
+### More ...
 
-### Java
--->
+* Wink-UI &ndash; User-centered Design for a Telemedicin App 'Wink'
+  * [https://github.com/brugr9/wink-ui](https://github.com/brugr9/wink-ui)
+* ooaduc &ndash; $LaTeX$ style file for Use Cases in Object-Oriented Analysis and Design
+  * [https://github.com/brugr9/ooaduc](https://github.com/brugr9/ooaduc)
+* C++ Memory Manager
+  * [https://github.com/brugr9/MemMngr](https://github.com/brugr9/MemMngr)
