@@ -8,7 +8,7 @@ Expertise:
 
 * OOAD / OOP / UML / Design Pattern
 * Integration / Middleware / ESB / Message Broker / Sockets / PubSub / RESTful / IoT
-* Visual Computing / VR / 3D / CAD / DICOM / Image Processing
+* Visual Computing / VR / 3D / CAD / BIM / DICOM / Image Processing
 * Windows / Linux / DevOps
 
 Education:
