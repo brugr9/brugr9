@@ -17,6 +17,11 @@ Education:
 * BSc BFH in Computer Science with spec. in Computer Perception and Virtual Reality
 * Civil Engineering Draughtsman, Federal VET Diploma
 
+..
+
+* IQ 140
+* Member Swiss Engineering STV
+
 ## Online Portfolio
 
 ### Algorithms
