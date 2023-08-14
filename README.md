@@ -99,12 +99,11 @@ Education:
 
 ### HPC
 
-* C++ Memory Manager
-  * [https://github.com/brugr9/MemMngr](https://github.com/brugr9/MemMngr)
-* Multicore and GPU Programming
-  * [https://www.slideshare.net/RolandBruggmann/multicore-and-gpu-programming](https://www.slideshare.net/RolandBruggmann/multicore-and-gpu-programming)
-* HPC and Parallel Computing at CSCS
-  * [https://www.slideshare.net/RolandBruggmann/swiss-national-supercomputing-centre-cscs](https://www.slideshare.net/RolandBruggmann/swiss-national-supercomputing-centre-cscs)
+* CSCS-USI HPC Summer School 2019 &ndash; Effective HPC & Data Analytics with GPUs: [https://github.com/brugr9/SummerSchool2019](https://github.com/brugr9/SummerSchool2019)
+* CSCS-ICS-DADSi Summer School 2017 &ndash; Accelerating Data Science with HPC: [https://github.com/brugr9/CSCS-summer-school-2017](https://github.com/brugr9/CSCS-summer-school-2017)
+* Presentation &ndash; HPC and Parallel Computing at CSCS: [https://www.slideshare.net/RolandBruggmann/swiss-national-supercomputing-centre-cscs](https://www.slideshare.net/RolandBruggmann/swiss-national-supercomputing-centre-cscs)
+* Summary &ndash; Multicore and GPU Programming: [https://www.slideshare.net/RolandBruggmann/multicore-and-gpu-programming](https://www.slideshare.net/RolandBruggmann/multicore-and-gpu-programming)
+* Implementation &ndash; C++ Memory Manager: [https://github.com/brugr9/MemMngr](https://github.com/brugr9/MemMngr)
 
 ### Conceptual Work
 
