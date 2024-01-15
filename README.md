@@ -19,7 +19,7 @@ Education:
 
 ..
 
-* IQ 140
+* IQ 140+, former Member Mensa Switzerland
 * Member Swiss Engineering STV
 
 ## Online Portfolio
