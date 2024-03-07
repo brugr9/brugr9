@@ -42,7 +42,7 @@ Education:
 
 * Fingerprint Analysis – Preprocessing and Feature Extraction
   * [https://github.com/brugr9/fipa](https://github.com/brugr9/fipa)
-  * [https://www.slideshare.net/RolandBruggmann/merkmalsextraktion-am-fingerabdruck](https://www.slideshare.net/RolandBruggmann/merkmalsextraktion-am-fingerabdruck)
+  * [https://www.slideshare.net/slideshows/fingerprint-analysis-preprocessing-and-feature-extraction/266678426](https://www.slideshare.net/RolandBruggmann/merkmalsextraktion-am-fingerabdruck)
   * [https://ch.mathworks.com/matlabcentral/fileexchange/69424-fingerprint-analysis-preprocessing-and-feature-extraction](https://ch.mathworks.com/matlabcentral/fileexchange/69424-fingerprint-analysis-preprocessing-and-feature-extraction)
 * Crosswalk &ndash; Meet The Beatles at Abbey Road for Image Processing in a Jupyter Notebook.
   * [https://github.com/brugr9/Crosswalk](https://github.com/brugr9/Crosswalk)
