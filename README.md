@@ -8,7 +8,7 @@ Expertise:
 
 * OOAD / OOP / UML / Design Pattern
 * Integration / Middleware / ESB / Message Broker / Sockets / PubSub / RESTful / IoT
-* Visual Computing / VR / 3D / CAD / DICOM / Image Processing
+* Visual Computing / VR / 3D / CAD / BIM / DICOM / Image Processing
 * Windows / Linux / DevOps
 
 Education:
@@ -16,6 +16,11 @@ Education:
 * Certificate BFH in General Management
 * BSc BFH in Computer Science with spec. in Computer Perception and Virtual Reality
 * Civil Engineering Draughtsman, Federal VET Diploma
+
+..
+
+* IQ 140+, former Member Mensa Switzerland
+* Member Swiss Engineering STV
 
 ## Online Portfolio
 
@@ -99,12 +104,11 @@ Education:
 
 ### HPC
 
-* C++ Memory Manager
-  * [https://github.com/brugr9/MemMngr](https://github.com/brugr9/MemMngr)
-* Multicore and GPU Programming
-  * [https://www.slideshare.net/RolandBruggmann/multicore-and-gpu-programming](https://www.slideshare.net/RolandBruggmann/multicore-and-gpu-programming)
-* HPC and Parallel Computing at CSCS
-  * [https://www.slideshare.net/RolandBruggmann/swiss-national-supercomputing-centre-cscs](https://www.slideshare.net/RolandBruggmann/swiss-national-supercomputing-centre-cscs)
+* ETHZ, CSCS-USI HPC Summer School 2019 &ndash; Effective HPC & Data Analytics with GPUs: [https://github.com/brugr9/SummerSchool2019](https://github.com/brugr9/SummerSchool2019)
+* ETHZ, CSCS-ICS-DADSi Summer School 2017 &ndash; Accelerating Data Science with HPC: [https://github.com/brugr9/CSCS-summer-school-2017](https://github.com/brugr9/CSCS-summer-school-2017)
+* Presentation &ndash; HPC and Parallel Computing at CSCS: [https://www.slideshare.net/RolandBruggmann/swiss-national-supercomputing-centre-cscs](https://www.slideshare.net/RolandBruggmann/swiss-national-supercomputing-centre-cscs)
+* Summary &ndash; Multicore and GPU Programming: [https://www.slideshare.net/RolandBruggmann/multicore-and-gpu-programming](https://www.slideshare.net/RolandBruggmann/multicore-and-gpu-programming)
+* Implementation &ndash; C++ Memory Manager: [https://github.com/brugr9/MemMngr](https://github.com/brugr9/MemMngr)
 
 ### Conceptual Work
 
