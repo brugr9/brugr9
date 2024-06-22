@@ -1,27 +1,5 @@
 # GitHub Profile &mdash; Roland Bruggmann aka brugr9
 
-## About Me
-
-Computer Science Engineer with experience in technical engineering and OO programming in languages including, C/C++, C#, HLSL, Java and Python.
-
-Expertise:
-
-* OOAD / OOP / UML / Design Pattern
-* Integration / Middleware / ESB / Message Broker / Sockets / PubSub / RESTful / IoT
-* Visual Computing / VR / 3D / CAD / BIM / DICOM / Image Processing
-* Windows / Linux / DevOps
-
-Education:
-
-* Certificate BFH in General Management
-* BSc BFH in Computer Science with spec. in Computer Perception and Virtual Reality
-* Civil Engineering Draughtsman, Federal VET Diploma
-
-..
-
-* IQ 140+, former Member Mensa Switzerland
-* Member Swiss Engineering STV
-
 ## Online Portfolio
 
 ### Algorithms
