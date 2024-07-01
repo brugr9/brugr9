@@ -1,27 +1,5 @@
 # GitHub Profile &mdash; Roland Bruggmann aka brugr9
 
-## About Me
-
-Computer Science Engineer with experience in technical engineering and OO programming in languages including, C/C++, C#, HLSL, Java and Python.
-
-Expertise:
-
-* OOAD / OOP / UML / Design Pattern
-* Integration / Middleware / ESB / Message Broker / Sockets / PubSub / RESTful / IoT
-* Visual Computing / VR / 3D / CAD / BIM / DICOM / Image Processing
-* Windows / Linux / DevOps
-
-Education:
-
-* Certificate BFH in General Management
-* BSc BFH in Computer Science with spec. in Computer Perception and Virtual Reality
-* Civil Engineering Draughtsman, Federal VET Diploma
-
-..
-
-* IQ 140+, former Member Mensa Switzerland
-* Member Swiss Engineering STV
-
 ## Online Portfolio
 
 ### Algorithms
@@ -78,10 +56,12 @@ Education:
 * Code Plugin "Integration Tool"
   * [https://unrealengine.com/marketplace/en-US/product/integration-tool](https://unrealengine.com/marketplace/en-US/product/integration-tool)
   * [https://github.com/brugr9/UEPluginIntegrationTool](https://github.com/brugr9/UEPluginIntegrationTool)
-* nDisplay Cluster in CAVE
+* UE nDisplay Cluster in CAVE
   * [https://www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster](https://web.archive.org/web/20230130050503/https:/www.tpf.philhum.unibe.ch/portfolio/ue4DisplayCluster) (at archive org)
 * 3D Content &ndash; Cultural Heritage
   * [https://github.com/brugr9/UEPluginCulturalHeritage](https://github.com/brugr9/UEPluginCulturalHeritage)
+* UE Material Library: Wetness
+  * [https://github.com/brugr9/Wetness](https://github.com/brugr9/Wetness)
 * 3D Content for Dream-like VR
   * [https://www.slideshare.net/RolandBruggmann/3d-content-for-dreamlike-vr-249969767](https://www.slideshare.net/RolandBruggmann/3d-content-for-dreamlike-vr-249969767)
   * [https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR](https://www.tpf.philhum.unibe.ch/portfolio/dreamLikeVR)
