@@ -15,8 +15,7 @@
 ### Messaging and IoT
 
 * Polar® H10 Heart Rate Monitor Integration
-  * [https://github.com/brugr9/Heartbeat51](https://github.com/brugr9/Heartbeat51) (MQTT)
-  * [https://github.com/brugr9/Heartbeat](https://github.com/brugr9/Heartbeat) (nanomsg)
+  * [https://github.com/brugr9/Heartbeat51](https://github.com/brugr9/Heartbeat51)
 * Unreal Engine Code Plugin "Integration Tool"
   * [https://unrealengine.com/marketplace/en-US/product/integration-tool](https://unrealengine.com/marketplace/en-US/product/integration-tool)
   * [https://github.com/brugr9/UEPluginIntegrationTool](https://github.com/brugr9/UEPluginIntegrationTool)
@@ -51,7 +50,7 @@
 * UE Medical Imaging Volume Rendering
   * [https://github.com/brugr9/UEPluginVolumeCreator](https://github.com/brugr9/UEPluginVolumeCreator)
 * Polar® H10 Heart Rate Monitor Integration
-  * [https://github.com/brugr9/Heartbeat51](https://github.com/brugr9/Heartbeat51) (MQTT)  
+  * [https://github.com/brugr9/Heartbeat51](https://github.com/brugr9/Heartbeat51)
 * Code Plugin "Integration Tool"
   * [https://unrealengine.com/marketplace/en-US/product/integration-tool](https://unrealengine.com/marketplace/en-US/product/integration-tool)
   * [https://github.com/brugr9/UEPluginIntegrationTool](https://github.com/brugr9/UEPluginIntegrationTool)
