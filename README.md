@@ -40,7 +40,8 @@ Knowledge from experience:
 ### Messaging and IoT
 
 * Polar® H10 Heart Rate Monitor Integration
-  * [https://github.com/brugr9/Heartbeat51](https://github.com/brugr9/Heartbeat51)
+  * [https://github.com/brugr9/Heartbeat53](https://github.com/brugr9/Heartbeat53) (Lab Streaming Layer)
+  * [https://github.com/brugr9/Heartbeat51](https://github.com/brugr9/Heartbeat51) (MQTT)
 * Unreal Engine Code Plugin "Integration Tool"
   * [https://unrealengine.com/marketplace/en-US/product/integration-tool](https://unrealengine.com/marketplace/en-US/product/integration-tool)
   * [https://github.com/brugr9/UEPluginIntegrationTool](https://github.com/brugr9/UEPluginIntegrationTool)
