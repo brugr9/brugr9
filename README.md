@@ -10,8 +10,6 @@ I prefer it when people treat each other with kindness.
 
 In addition to my work, I maintain a work-life balance, do sports (SAC, XC skiing, SUP, running) and enjoy meeting people.
 
-I am looking for a job with great projects and respectful line managers and colleagues.
-
 Knowledge from experience:
 
 * XR: Simulation, Serious Games, Unreal Engine, Unity, Head-mounted Display HMD, CAVE, Powerwall
@@ -41,7 +39,7 @@ Knowledge from experience:
 
 * Polar® H10 Heart Rate Monitor Integration
   * [https://github.com/brugr9/Heartbeat53](https://github.com/brugr9/Heartbeat53) (Lab Streaming Layer)
-  * [https://github.com/brugr9/Heartbeat51](https://github.com/brugr9/Heartbeat51) (MQTT)
+  * [https://github.com/brugr9/Heartbeat51](https://github.com/brugr9/Heartbeat51) (Mosquitto MQTT)
 * Unreal Engine Code Plugin "Integration Tool"
   * [https://unrealengine.com/marketplace/en-US/product/integration-tool](https://unrealengine.com/marketplace/en-US/product/integration-tool)
   * [https://github.com/brugr9/UEPluginIntegrationTool](https://github.com/brugr9/UEPluginIntegrationTool)
@@ -76,7 +74,8 @@ Knowledge from experience:
 * UE Medical Imaging Volume Rendering
   * [https://github.com/brugr9/UEPluginVolumeCreator](https://github.com/brugr9/UEPluginVolumeCreator)
 * Polar® H10 Heart Rate Monitor Integration
-  * [https://github.com/brugr9/Heartbeat51](https://github.com/brugr9/Heartbeat51)
+  * [https://github.com/brugr9/Heartbeat53](https://github.com/brugr9/Heartbeat53) (Lab Streaming Layer)
+  * [https://github.com/brugr9/Heartbeat51](https://github.com/brugr9/Heartbeat51) (Mosquitto MQTT)
 * Code Plugin "Integration Tool"
   * [https://unrealengine.com/marketplace/en-US/product/integration-tool](https://unrealengine.com/marketplace/en-US/product/integration-tool)
   * [https://github.com/brugr9/UEPluginIntegrationTool](https://github.com/brugr9/UEPluginIntegrationTool)
