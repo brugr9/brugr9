@@ -6,18 +6,18 @@ I have successfully implemented technology projects in the fields of biomedical 
 
 Knowledge from experience:
 
-• XR: Serious Games, Unreal Engine, Unity3D, Head-mounted Display HMD, CAVE, Powerwall
-• Image Processing and AI: Medical Imaging, CT/MRI, DICOM, 2D/3D Segmentation, Feature Extraction
-• Computer Perception: Motion Capture, Eye Tracking, Wearables, Sensors, Medical Navigation, 6DoF, RFID, QR Code
-• GIS and BIM: OGC compliant GeoServices WMS/WMTS/WFS, IFC compliance, CAD, 2D, 3D
+* XR: Serious Games, Unreal Engine, Unity3D, Head-mounted Display HMD, CAVE, Powerwall
+* Image Processing and AI: Medical Imaging, CT/MRI, DICOM, 2D/3D Segmentation, Feature Extraction
+* Computer Perception: Motion Capture, Eye Tracking, Wearables, Sensors, Medical Navigation, 6DoF, RFID, QR Code
+* GIS and BIM: OGC compliant GeoServices WMS/WMTS/WFS, IFC compliance, CAD, 2D, 3D
 --
-• System Integration: SOA, ESB, Middleware, Message Broker, Sync-Async-Messaging, Pub-Sub, Data Streaming, IoT
-• Protocols: Bluetooth, Serial COM, TCP/IP, UDP, HTTP, REST, WS, ZeroMQ, nanomsg, WebRTC, MQTT, OpenIGTLink, LSL, NTP, PTP
-• Distributed Systems: Parallel Computing, Cluster Rendering, Cloud / Edge / High Performance Computing
+* System Integration: SOA, ESB, Middleware, Message Broker, Sync-Async-Messaging, Pub-Sub, Data Streaming, IoT
+* Protocols: Bluetooth, Serial COM, TCP/IP, UDP, HTTP, REST, WS, ZeroMQ, nanomsg, WebRTC, MQTT, OpenIGTLink, LSL, NTP, PTP
+* Distributed Systems: Parallel Computing, Cluster Rendering, Cloud / Edge / High Performance Computing
 --
-• R&D: Requirements Engineering, OOAD, UML, OOP Design Pattern, Innovation, PoC, Prototyping, Software Architecture
-• Programming Languages: C/C++, C#, Python, Java, SQL, bash-/PS-Scripting, JSON/-Schema, XML/XSLT
-• Platforms: Windows, Linux, WSL, Docker, OpenStack, Arduino
+* R&D: Requirements Engineering, OOAD, UML, OOP Design Pattern, Innovation, PoC, Prototyping, Software Architecture
+* Programming Languages: C/C++, C#, Python, Java, SQL, bash-/PS-Scripting, JSON/-Schema, XML/XSLT
+* Platforms: Windows, Linux, WSL, Docker, OpenStack, Arduino
 
 ## Online Portfolio
 
