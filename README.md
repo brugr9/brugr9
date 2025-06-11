@@ -1,27 +1,23 @@
 # GitHub Profile &mdash; Roland Bruggmann aka brugr9
 
-Experienced software engineer with a focus on visual computing and specialised knowledge in system integration. 
+Research Software Engineer with a focus on Visual Computing and specialised knowledge in System Integration. 
 
-I have successfully implemented technology projects in the fields of biomedical engineering, sports science, psychology, HR, BIM and geospatial.
-
-I work very thoroughly and independently. I enjoy working in a team of professionals.
-Diversity is important to me - I have IQ140+.
-I prefer it when people treat each other with kindness.
-
-In addition to my work, I maintain a work-life balance, do sports (SAC, XC skiing, SUP, running) and enjoy meeting people.
+I have successfully implemented technology projects in the fields of biomedical engineering, sports science, psychology, Human Resources, BIM and geospatial.
 
 Knowledge from experience:
 
-* XR: Simulation, Serious Games, Unreal Engine, Unity, Head-mounted Display HMD, CAVE, Powerwall
-* AI: Digital Image Processing, Medical Imaging, CT/MRI, DICOM, 2D/3D Segmentation, Feature Extraction
-* Computer Perception: Motion Capture, Eye Tracking, Wearables, Sensors, Medical Navigation, RFID, QR Code
-* GIS/BIM: OGC compliant GeoServices WMS/WMTS/WFS, IFC compliance, CAD, 2D, 3D
-* System Integration: SOA, ESB, Middleware, Message Broker, Sync-Async-Messaging, Pub-Sub, Streaming, IoT
-* Protocols: RESTful, Websocket, ZeroMQ, nanomsg, WebRTC, MQTT, OpenIGTLink, LSL, NTP, PTP
-* Distributed Systems: Parallel Computing, Cluster Rendering, Cloud- / Edge- / High Performance Computing
-* R&D: Requirements Engineering, OOAD, OOP Design Pattern, Innovation, PoC, Prototyping, Software Architecture
-* Programming Languages: C/C++, C#, Python, Java, SQL, bash-/PS-Scripting, JSON/-Schema, XML/XSLT
-* Platforms: Windows, Linux, WSL, Docker, OpenStack
+• XR: Serious Games, Unreal Engine, Unity3D, Head-mounted Display HMD, CAVE, Powerwall
+• Image Processing and AI: Medical Imaging, CT/MRI, DICOM, 2D/3D Segmentation, Feature Extraction
+• Computer Perception: Motion Capture, Eye Tracking, Wearables, Sensors, Medical Navigation, 6DoF, RFID, QR Code
+• GIS and BIM: OGC compliant GeoServices WMS/WMTS/WFS, IFC compliance, CAD, 2D, 3D
+--
+• System Integration: SOA, ESB, Middleware, Message Broker, Sync-Async-Messaging, Pub-Sub, Data Streaming, IoT
+• Protocols: Bluetooth, Serial COM, TCP/IP, UDP, HTTP, REST, WS, ZeroMQ, nanomsg, WebRTC, MQTT, OpenIGTLink, LSL, NTP, PTP
+• Distributed Systems: Parallel Computing, Cluster Rendering, Cloud / Edge / High Performance Computing
+--
+• R&D: Requirements Engineering, OOAD, UML, OOP Design Pattern, Innovation, PoC, Prototyping, Software Architecture
+• Programming Languages: C/C++, C#, Python, Java, SQL, bash-/PS-Scripting, JSON/-Schema, XML/XSLT
+• Platforms: Windows, Linux, WSL, Docker, OpenStack, Arduino
 
 ## Online Portfolio
 
