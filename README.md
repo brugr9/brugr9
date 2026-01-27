@@ -2,7 +2,7 @@
 
 Research Software Engineer with a focus on Visual Computing and specialised knowledge in System Integration. 
 
-I have successfully implemented technology projects in the fields of biomedical engineering, sports science, psychology, Human Resources, BIM and geospatial.
+I have successfully implemented technology projects in the fields of biomedical engineering, sport science, psychology, BIM and geospatial.
 
 Knowledge from experience:
 
