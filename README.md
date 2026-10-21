@@ -2,6 +2,13 @@
 
 Research Software Engineer with a focus on Visual Computing and specialised knowledge in System Integration. 
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4__j5mM_az0" target="_blank">
+ <img src="https://media.licdn.com/dms/image/v2/C5612AQEIvqcBmygfZQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520123662009?e=2147483647&v=beta&t=1kBN_fv467chPrXoSTQT7VTCkaM0vd8kbOnnTzttBCE" alt="Screencast of Medical Volume Rendering in Unity" width="900" border="10" />
+</a>
+
+***Visual Computing: Medical Volume Rendering in Unity 2016***
+
+
 I have successfully implemented technology projects in the fields of biomedical engineering, sport science, psychology, BIM and geospatial.
 
 Knowledge from experience:
